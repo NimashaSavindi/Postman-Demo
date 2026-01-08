@@ -17,6 +17,18 @@
 				"url": "https://simple-books-api-click/status"
 			},
 			"response": []
+		},
+		{
+			"name": "Get books list",
+			"id": "72cb3a00-040d-4ec0-b846-c962b12e4338",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
